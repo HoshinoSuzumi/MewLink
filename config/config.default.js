@@ -39,6 +39,11 @@ module.exports = appInfo => {
         },
     };
 
+    config.passportGithub = {
+        key: 'f3844878e0ba87d67518',
+        secret: '9e538040352e21d1bc0e3016a81b525ef5759238'
+    }
+
     // add your user config here
     const userConfig = {
         // myAppName: 'egg',
