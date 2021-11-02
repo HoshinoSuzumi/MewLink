@@ -14,8 +14,10 @@
     "egg-scripts": "^2.11.0",
     "egg-sequelize": "^6.0.0",
     "egg-view-nunjucks": "^2.3.0",
+    "jsonwebtoken": "^8.5.1",
     "md5-node": "^1.0.1",
-    "mysql2": "^2.3.0"
+    "mysql2": "^2.3.0",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "autod": "^3.0.1",
